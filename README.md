@@ -1,6 +1,6 @@
 DF-Net
 ======
-#DF-Net: A Direction-Aware Dual-Frequency Feature Modeling Network for Coronary Artery Segmentation
+## DF-Net: A Direction-Aware Dual-Frequency Feature Modeling Network for Coronary Artery Segmentation
 
 This repository provides the main network implementation of our proposed method for coronary artery segmentation in CCTA images.
 
